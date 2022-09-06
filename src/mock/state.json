@@ -1,0 +1,24 @@
+{
+    "listStates": [
+      {
+        "id": "1",
+        "name": "Tamil Nadu"
+      },
+      {
+        "id": "2",
+        "name": "Andhra"
+      },
+      {
+        "id": "3",
+        "name": "kerala"
+      },
+      {
+        "id": "4",
+        "name": "UP"
+      },
+      {
+        "id": "5",
+        "name": "Rajasthan"
+      }
+    ]
+  }
